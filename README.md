@@ -1,6 +1,6 @@
 # POKE-APP
 
-PREVIEW : https://phenomenal-torrone-19fb5c.netlify.app/
+PREVIEW : [https://dapper-seahorse-f74a70.netlify.app/]
 
 ## Project Setup
 
