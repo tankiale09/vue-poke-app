@@ -1,0 +1,1 @@
+import{i as s,o as n,c as a,a as e,F as c}from"./index-acc66e52.js";const r=e("h1",null,"ERROR 404",-1),m={__name:"NotFoundView",setup(u){const o=s(),t=()=>{o.push("/pokemons")};return(l,_)=>(n(),a(c,null,[r,e("button",{onClick:t},"Volver")],64))}};export{m as default};

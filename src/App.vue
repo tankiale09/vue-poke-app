@@ -21,6 +21,7 @@ const back = (input) => {
       <div class="d-inline-flex">
         <RouterLink to="/" class="btn btn-outline-primary me-2 mb-2" active-class="active">Home</RouterLink>
         <RouterLink to="/pokemons" class="btn btn-outline-primary me-2 mb-2" active-class="active">Pokemons</RouterLink>
+        <RouterLink to="/favoritos" class="btn btn-outline-primary me-2 mb-2" active-class="active">Favoritos</RouterLink>
         <RouterLink to="/aboutme" class="btn btn-outline-primary me-2 mb-2" active-class="active">About This</RouterLink>
       </div>
       <form class="d-flex" role="search" name="form" id="form" v-on:submit.prevent="onSubmit">
